@@ -1,0 +1,58 @@
+.imagen img{
+    margin: auto;
+    margin-right: 100px;
+    display: block;
+    width: 600px;
+    height: auto;
+}
+.item{
+
+    width:18em;
+    height: 10em;
+    justify-content: center;
+    font-size: 3em; 
+    background-color: slateblue; 
+     display: flex;
+     align-content: flex-start;
+     flex-wrap: wrap;
+     border-color: black;
+    color: white; 
+border-color: black;
+margin: auto;
+margin-right: 100px;
+margin-left: 250px;
+margin-bottom: 10em;
+display: block; 
+}
+.contenedor img{
+    width: auto;
+    height: 100px;
+   
+}
+.q img{
+    width: auto;
+    height: 100px;
+}
+.w img{
+   width: auto;
+    height: 100px;
+}
+.e img{
+    width: auto;
+    height: 100px;
+}
+.r img{
+    width: auto;
+    height: 100px;
+}
+.lorem p{
+    text-align: initial;
+    display: block;
+   
+}
+
+body {
+
+    background-color: mediumpurple;
+
+}
